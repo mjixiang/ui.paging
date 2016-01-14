@@ -15,4 +15,4 @@
 
 #使用方法：
 见例子
-<a href="http://mjixiang.github.io/ui.paging/index.html" target="_blank">http://mjixiang.github.io/ui.prompt/index.html</a>
+http://mjixiang.github.io/ui.paging/index.html
